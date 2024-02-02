@@ -1,1 +1,2 @@
-hi 
+hi . 
+new message after upstream set for remote repo
