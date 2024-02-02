@@ -1,3 +1,4 @@
 hi . 
 new message after upstream set for remote repo.
 now from remo to local requirement.
+checking forked repo after change.
