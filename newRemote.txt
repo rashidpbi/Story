@@ -1,2 +1,3 @@
 hi . 
-new message after upstream set for remote repo
+new message after upstream set for remote repo.
+now from remo to local requirement.
